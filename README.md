@@ -1,0 +1,2 @@
+# addon-resizertest
+test
